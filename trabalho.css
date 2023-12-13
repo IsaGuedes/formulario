@@ -1,0 +1,124 @@
+#fnpcispe{
+    text-align: center;
+    font-family: cursive;
+color: #c5588b;
+}
+
+span{
+    color: rgb(145, 68, 106);
+}
+
+body { 
+    background-image: url("https://plainbackground.com/plain1024/f9c2c8.png");
+    background-size: 100%;
+}
+
+#trabalho{
+    margin-left: 37%;
+    position: absolute;
+    background-color: #ff94c4;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+fieldset{
+    color: rgb(209, 93, 147);
+    background-color: rgb(255, 219, 241);
+    border-radius: 10px;
+}
+
+.b{
+    background-color: #ffc1de;
+    border-radius: 5px;
+}
+
+#cs{
+    height: 30px;
+}
+
+#mr{
+    padding-top: 2px;
+}
+
+#ps{
+    width: 360px;
+    height: 60px;
+}
+
+.priscila{
+    margin-left: 77%;
+    margin-top: 9%;
+}
+
+
+@media screen and (max-width: 600px) {
+    #fnpcispe{
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    
+    span{
+        color: white;
+    }
+    
+    body {background: linear-gradient(to right,skyblue,dodgerblue);
+    }
+    
+    #trabalho{
+        margin-left: 30px;
+        position: absolute;
+        background-color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    #cs{
+        height: 30px;
+    }
+    
+    #mr{
+        padding-top: 2px;
+    }
+    
+    #ps{
+        width: 360px;
+        height: 60px;
+    }
+
+@media screen and (max-width: 1000px) {
+    #fnpcispe{
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    }
+    
+    span{
+        color: white;
+    }
+    
+    body {background: linear-gradient(to right,skyblue,dodgerblue);
+    }
+    
+    #trabalho{
+        margin-left: 42.5%;
+        position: absolute;
+        background-color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    #cs{
+        height: 30px;
+    }
+    
+    #mr{
+        padding-top: 2px;
+    }
+    
+    #ps{
+        width: 360px;
+        height: 60px;
+    }    
+}
